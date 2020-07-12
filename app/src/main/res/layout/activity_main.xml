@@ -29,6 +29,14 @@
             android:layout_marginVertical="10dp"
             />
 
+        <Button
+            android:id="@+id/btnRX02CompositeDisposable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Composite Disposable"
+            android:layout_marginVertical="10dp"
+            />
+
     </LinearLayout>
 
 </ScrollView>
