@@ -37,6 +37,14 @@
             android:layout_marginVertical="10dp"
             />
 
+        <Button
+            android:id="@+id/btnRX03Operadores"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Operadores"
+            android:layout_marginVertical="10dp"
+            />
+
     </LinearLayout>
 
 </ScrollView>
